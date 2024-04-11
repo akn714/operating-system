@@ -1,4 +1,5 @@
 # lecture 1
+[source](https://www.geeksforgeeks.org/what-is-an-operating-system/)
 
 <img src='https://media.geeksforgeeks.org/wp-content/uploads/20230510120545/OS1.webp'>
 
