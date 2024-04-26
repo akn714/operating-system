@@ -7,3 +7,9 @@
 [lecture 2: Types of OS]()
 
 [lecture 3: Multi-Tasking vs Multi-Threading]()
+
+***other***
+<br>
+[kernal](https://www.geeksforgeeks.org/kernel-in-operating-system/amp/)
+
+[process vs thread](https://www.geeksforgeeks.org/difference-between-process-and-thread/amp/)
