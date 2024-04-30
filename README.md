@@ -4,6 +4,6 @@
 
 [lecture 1: Introducting](https://github.com/akn714/operating-system/blob/main/lecture1.md)
 
-[lecture 2: Types of OS]()
+[lecture 2: Types of OS](https://github.com/akn714/operating-system/blob/main/lecture2.md)
 
-[lecture 3: Multi-Tasking vs Multi-Threading]()
+[lecture 3: Multi-Tasking vs Multi-Threading](https://github.com/akn714/operating-system/blob/main/lecture3.md)
