@@ -17,22 +17,22 @@ source: google
 ***Batch Processing OS***
 * Similar Jobs/Tasks/Processes are combined together to make batches
 * After that, batches are executed one by one
-* ATLAS
+* eg. ATLAS OS
 
 ***Multi-Programming OS***
 * More than one task is executed at a time.
 * Context switching
-* THE
+* eg. THE
 
 ***Multi-Processing OS***
 * More than one processor executes the tasks
 * Context switching
 * Time sharing
-* WINDOWS
+* eg. WINDOWS
 
 ***Multi-Tasking OS***
 * Time sharing
-* CTSS
+* eg. CTSS
 
 ***Multi-Threading OS***
 
